@@ -1,6 +1,12 @@
-## 这是我的个人简历
+## 你好，我是Artechphy
 
-### 我正在为创造自己的语言努力！
+### 我是一个大学生，正在学习软件开发的完整流程
+
+### 我很喜欢一句话：
+
+__“哲学家们热衷于解释世界，而关键在于改造世界”__
+
+### 让我们一起努力，让世界变得更好！
 
 <!--
 **Artechphy/Artechphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
