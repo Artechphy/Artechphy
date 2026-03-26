@@ -1,24 +1,9 @@
 ## 你好，我是Artechphy
 
-### 我是一个大学生，正在学习软件开发的完整流程
 
-### 我很喜欢一句话：
 
-_“哲学家们热衷于解释世界，而关键在于改造世界”_
+### “你有没有想象力？”
 
-### 让我们一起努力，让世界变得更好！
+### “你愿不愿意当英雄？”
 
-<!--
-**Artechphy/Artechphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### “好，来写程序吧！”
